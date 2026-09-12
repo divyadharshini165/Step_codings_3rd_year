@@ -1,7 +1,6 @@
 # Activity 13.1: Account Rules Engine
 
-![Uploading image.png…]()
-
+![Activity 13.1 Output](output.png)
 
 ## Objective
 
